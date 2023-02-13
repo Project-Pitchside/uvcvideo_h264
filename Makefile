@@ -15,7 +15,7 @@ all:
 
 install: all
 	sudo rmmod uvcvideo
-	sudo insmod ${MODULE_NAME}.o
+	sudo insmod ${MODULE_NAME}.ko
 
 clean:
 	rm -rf *.o *~ core .depend .*.cmd *.ko *.mod.c .tmp_versions *.markers *.symvers *.order
