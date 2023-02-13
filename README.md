@@ -19,6 +19,6 @@ Finally to install the driver execute the commands
 
 ```
 cd uvcvideo_h264
-Make install
+make install
 ```
 
