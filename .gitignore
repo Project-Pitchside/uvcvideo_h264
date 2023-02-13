@@ -1,3 +1,4 @@
-src/*.o
-src/*.ko
-src/temp*
+*.o
+*.ko
+*.mod
+temp*
