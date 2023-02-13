@@ -11,7 +11,10 @@ To download the source code fetch it from github
 
 `git clone https://github.com/Project-Pitchside/uvcvideo_h264.git`
 
-Finally run 
+Finally to install the driver execute the commands
 
-`Make install`
+```
+cd uvcvideo_h264
+Make install
+```
 
